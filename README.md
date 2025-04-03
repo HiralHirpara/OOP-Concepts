@@ -1,5 +1,5 @@
 
-# OOP - Object-Oriented Programming.
+# OOP - Object-Oriented Programming
 
 ### OOP Concepts:
   1. Classes and Object
@@ -32,3 +32,6 @@
      - **Method Overriding:** Subclasses can provide their own implementation of a method that is already defined in the superclass.
      - **Method Overloading**: Methods in the same class can have the same name but different parameters (number, type, or order).
 
+#### 5. Abstraction:
+   - is the concept of **hiding complex implementation details** and **showing only the necessary functionality** to the user.
+   - In Java, abstraction can be achieved using abstract classes and interfaces.
