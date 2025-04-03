@@ -24,7 +24,7 @@
 
    - allows one class to **inherit properties and methods from another class**.
    - This promotes code reusability and the creation of a hierarchy of classes.
-
+   - example: The Bank Manager
 #### 4. Polymorphism: 
 
    - which means **multiples shapes or forms**.

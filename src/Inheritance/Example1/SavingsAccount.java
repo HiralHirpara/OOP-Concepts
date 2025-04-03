@@ -1,5 +1,6 @@
-package Inheritance;
+package Inheritance.Example1;
 
+// Subclass (Child class) inherits from 'BankAccount'
 public class SavingsAccount extends BankAccount{
     int transfers;
 

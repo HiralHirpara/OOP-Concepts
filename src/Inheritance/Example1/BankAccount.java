@@ -1,5 +1,6 @@
-package Inheritance;
+package Inheritance.Example1;
 
+// Superclass (Parent class)
 public class BankAccount {
     String accountNumber;
     double balance;
@@ -19,4 +20,15 @@ public class BankAccount {
     public void setBalance(double balance) {
         this.balance = balance;
     }
+
+    /*
+    @Override
+    public String toString() {
+        return "BankAccount{" +
+                "accountNumber='" + accountNumber + '\'' +
+                ", balance=" + balance +
+                '}';
+    }
+    */
+
 }

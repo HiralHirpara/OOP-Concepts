@@ -1,7 +1,8 @@
-package Inheritance;
+package Inheritance.Example1;
 
 import java.util.Date;
 
+// Subclass (Child class) inherits from 'BankAccount'
 public class COD extends  BankAccount{
     Date expiry;
 
